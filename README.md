@@ -9,6 +9,7 @@
 * ✉️  You can contact me at [jippykelly@gmail.com](mailto:jippykelly@gmail.com)
 * 🧠  I'm currently learning Data Modelling and Computer Vision in Python, and preparing for my Tableau Desktop Certification
 * 🤝  I'm open to collaborating on data-driven projects, especially those in the creative industries
+* 📚  You can find a list of my publications [here](https://github.com/JP-Kelly/projects/blob/main/publications.md)
 
 ### Skills
 
