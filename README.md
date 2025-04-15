@@ -38,7 +38,7 @@ A highly motivated researcher with a proven track record of applying rigorous an
 
 My portfolio demonstrates expertise in:
 
-* **Longitudinal Interface Analysis:** Developing and implementing replicable methods for tracking and analyzing changes in platform interfaces over extended periods, as evidenced by the BBC iPlayer project (2018-2021).
+* **Longitudinal Interface Analysis:** Developing and implementing replicable methods for tracking and analyzing changes in platform interfaces over extended periods, as evidenced by the [BBC iPlayer project](https://github.com/JP-Kelly/BBC-iPlayer-Analysis) (2018-2021).
 * **Data-Driven Insights:** Utilizing quantitative and qualitative data to generate actionable insights into content prioritization, genre placement, and the impact of algorithmic curation on user behaviour.
 * **Academic Publication and Presentation:** Communicating research findings through peer-reviewed publications in leading journals (e.g., *Television & New Media*, *Critical Studies in Television*, *MedieKultur*) and presentations at international conferences.
 * **Methodological Innovation:** Designing and implementing novel data collection and analysis workflows, including automated web scraping and R and Python scripting for data processing.
