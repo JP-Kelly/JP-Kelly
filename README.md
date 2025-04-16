@@ -4,9 +4,9 @@
 ## Data Analyst | Tableau Developer | Senior Lecturer
 
 * 🌍  I'm based in Nottingham
-* 🎓  I have a PhD from the University of Nottingham (2011)
+* 🎓  I have a PhD in Communications from the University of Nottingham (2011)
 * 🖥️  See my data viz portfolio at [Tableau](http://public.tableau.com/app/profile/jp.kelly8457/vizzes)
-* ✉️  You can contact me at [jippykelly@gmail.com](mailto:jippykelly@gmail.com)
+* ✉️  [Contact me via email](mailto:jippykelly@gmail.com)
 * 🧠  I'm currently learning Data Modelling and Computer Vision in Python, and preparing for my Tableau Desktop Certification
 * 🤝  I'm open to collaborating on data-driven projects, especially those in the creative industries
 * 📚  Find a list of my publications [here](https://github.com/JP-Kelly/projects/blob/main/publications.md)
