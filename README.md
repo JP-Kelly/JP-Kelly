@@ -14,7 +14,7 @@
 ### Skills
 
 <p align="left">
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" style="margin-right: 10px;"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/250px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="36" height="36" alt="Excel" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" /></a>&nbsp;&nbsp;&nbsp;
@@ -23,9 +23,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/474x/77/f0/33/77f033d90e28c29dc6ce7006e66d0caa.jpg" width="36" height="36" alt="MacOS" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7093501?s=200&v=4" width="36" height="36" alt="Contensis" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="36" height="36" alt="DaVinci Resolve" /></a>
+<a href="https://www.blackmagicdesign.com/uk/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="36" height="36" alt="DaVinci Resolve" /></a>
 </p>
 
 
