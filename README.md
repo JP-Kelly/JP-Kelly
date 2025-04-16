@@ -37,7 +37,8 @@
 A highly motivated researcher with a proven track record of applying rigorous analytical methodologies to understand the evolving landscape of digital media. Specialising in the intersection of content presentation, user experience (UX), and editorial strategy on online platforms, my work combines computational methods with critical media studies perspectives.
 
 <details>
-<Summary>**Read more about me** (click to expand / collapse)</Summary>
+<br></br>
+<Summary>Read more about me (click to expand / collapse)</Summary>
 
 My portfolio demonstrates expertise in:
 
