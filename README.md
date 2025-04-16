@@ -36,6 +36,9 @@
 
 A highly motivated researcher with a proven track record of applying rigorous analytical methodologies to understand the evolving landscape of digital media. Specialising in the intersection of content presentation, user experience (UX), and editorial strategy on online platforms, my work combines computational methods with critical media studies perspectives.
 
+<details>
+<Summary>**Read more about me** (click to expand / collapse)</Summary>
+
 My portfolio demonstrates expertise in:
 
 * **Longitudinal Interface Analysis:** Developing and implementing replicable methods for tracking and analyzing changes in platform interfaces over extended periods, as evidenced by the [BBC iPlayer project](https://github.com/JP-Kelly/BBC-iPlayer-Analysis) (2018-2021).
@@ -44,3 +47,5 @@ My portfolio demonstrates expertise in:
 * **Methodological Innovation:** Designing and implementing novel data collection and analysis workflows, including automated web scraping and R and Python scripting for data processing.
 
 I am passionate about contributing to a deeper understanding of how digital platforms shape our media consumption and cultural experiences.
+
+</details>
