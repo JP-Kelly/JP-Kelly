@@ -25,6 +25,7 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/474x/77/f0/33/77f033d90e28c29dc6ce7006e66d0caa.jpg" width="36" height="36" alt="MacOS" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.contensis.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7093501?s=200&v=4" width="36" height="36" alt="Contensis" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.inkscape.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/1024px-Inkscape_logo_2.svg.png" width="36" height="36" alt="Inkscape" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.blackmagicdesign.com/uk/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="36" height="36" alt="DaVinci Resolve" /></a>
 </p>
 
